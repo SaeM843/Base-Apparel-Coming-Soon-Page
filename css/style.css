@@ -16,8 +16,15 @@ body {
 .container .context {
   padding: 5rem 15rem 10rem 8rem;
 }
+.container .context main h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  line-height: 6rem;
+  font-weight: 300;
+}
 .container .context main h1 span {
   color: hsl(0, 6%, 24%);
+  font-weight: 400;
 }
 
 .main-image {

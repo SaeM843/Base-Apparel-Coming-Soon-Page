@@ -17,8 +17,16 @@ body {
     .context {
         padding: 5rem 15rem 10rem 8rem;
 
+        main h1 {
+            font-size: 5rem;
+            text-transform: uppercase;
+            line-height: 6rem;
+            font-weight: 300;
+
+        }
         main h1 span {
             color: var.$dark-grayish-red;
+            font-weight: 400;
         }
     }
 
