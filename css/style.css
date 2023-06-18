@@ -9,6 +9,8 @@ body {
 
 .container {
   min-height: 100vh;
+  display: grid;
+  grid-template-columns: 4fr 3fr;
 }
 
 .main-image {
