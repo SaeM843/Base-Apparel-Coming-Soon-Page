@@ -21,6 +21,8 @@ body {
   text-transform: uppercase;
   line-height: 6rem;
   font-weight: 300;
+  letter-spacing: 1rem;
+  margin-top: 3rem;
 }
 .container .context main h1 span {
   color: hsl(0, 6%, 24%);
