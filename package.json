@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SaeM843/Base-Apparel-Coming-Soon-Page/issues"
   },
-  "homepage": "https://github.com/SaeM843/Base-Apparel-Coming-Soon-Page#readme"
+  "homepage": "https://github.com/SaeM843/Base-Apparel-Coming-Soon-Page#readme",
+  "devDependencies": {
+    "modern-css-reset": "^1.4.0"
+  }
 }
