@@ -16,6 +16,10 @@ body {
 
     .context {
         padding: 5rem 15rem 10rem 8rem;
+
+        main h1 span {
+            color: var.$dark-grayish-red;
+        }
     }
 
 }

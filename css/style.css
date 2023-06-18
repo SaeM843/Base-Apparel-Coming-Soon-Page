@@ -16,6 +16,9 @@ body {
 .container .context {
   padding: 5rem 15rem 10rem 8rem;
 }
+.container .context main h1 span {
+  color: hsl(0, 6%, 24%);
+}
 
 .main-image {
   background-image: url(../images/hero-desktop.jpg);
