@@ -15,7 +15,7 @@ body {
     grid-template-columns: 4fr 3fr;
 
     .context {
-        padding: 5rem 15rem 10rem 8rem;
+        padding: 5rem 15rem 10rem 10rem;
 
         main h1 {
             font-size: 5rem;
@@ -29,6 +29,11 @@ body {
         main h1 span {
             color: var.$dark-grayish-red;
             font-weight: 400;
+        }
+
+        main p {
+            font-weight: 400;
+            line-height: 2rem;
         }
     }
 
