@@ -37,7 +37,12 @@
         <h1>We're <span>coming soon</span></h1>
         <p>Hello fellow shoppers! We're currently building our new fashion store. 
           Add your email below to stay up-to-date with announcements and our launch deals.</p>
-          <input type="email" id="email" pattern=".+@globex\.com" size="30" required>
+
+        <form id="form" autocomplete="off">
+          <input type="email" id="email" placeholder="Email address" pattern=".+@globex\.com" size="30" required>
+          <img src="./images/icon-error.svg">
+          <button type="submit" class="submit-btn"><img src="./images/icon-arrow.svg"></button>
+        </form>
         </main>
       </div>
       <div class="main-image"></div>

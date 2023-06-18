@@ -11,6 +11,7 @@ body {
   min-height: 100vh;
   display: grid;
   grid-template-columns: 4fr 3fr;
+  padding: 5rem 15rem 10rem 8rem;
 }
 
 .main-image {
