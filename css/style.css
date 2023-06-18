@@ -14,8 +14,11 @@ body {
 }
 
 .main-image {
-  background-image: url("../images/hero-desktop");
+  background-image: url(../images/hero-desktop.jpg);
   height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*# sourceMappingURL=style.css.map */
