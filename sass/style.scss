@@ -1,4 +1,4 @@
-@use "./abstracts/variables" as var;
-@use "./base/page";
-@use "./components/image";
-@use "./components/main_page" as main;
+@use "./variables" as var;
+@use "./page";
+@use "./image";
+@use "./main_page" as main;
