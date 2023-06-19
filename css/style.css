@@ -42,4 +42,8 @@ body {
   background-size: cover;
 }
 
+form {
+  display: flex;
+}
+
 /*# sourceMappingURL=style.css.map */
