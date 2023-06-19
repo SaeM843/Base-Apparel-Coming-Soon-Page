@@ -17,20 +17,21 @@ body {
   padding: 5rem 15rem 10rem 10rem;
 }
 .container .context main h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   text-transform: uppercase;
-  line-height: 6rem;
+  line-height: 5.5rem;
   font-weight: 300;
   letter-spacing: 1rem;
   margin-top: 8rem;
 }
 .container .context main h1 span {
   color: hsl(0, 6%, 24%);
-  font-weight: 400;
+  font-weight: 600;
 }
 .container .context main p {
   font-weight: 400;
-  line-height: 2rem;
+  line-height: 1.8rem;
+  padding-right: 1rem;
 }
 
 .main-image {
