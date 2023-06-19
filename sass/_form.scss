@@ -14,14 +14,25 @@ form {
 
     button {
         position: absolute;
-        right: 3rem;
+        right: 0rem;
         height: 100%;
-        width: 5rem;
+        width: 6rem;
         display: flex;
         align-items: center;
         justify-content: center;
         border: none;
         border-radius: 2rem;
         background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+
+        &:hover {
+            background: linear-gradient(to right, hsl(0, 80%, 86%), hsl(0, 80%, 86%));
+            box-shadow: 0px 4px 8px 2px hsla(0, 80%, 86%, 0.75);
+        }
+    }
+
+    .error-icon {
+        position: absolute;
+        right: 7rem;
+        top: 0.7rem;
     }
 }
