@@ -51,6 +51,10 @@ form input {
   width: 100%;
   border: 1px solid hsl(0, 36%, 70%);
   border-radius: 3rem;
+  padding-left: 1rem;
+}
+form input:focus {
+  outline: none;
 }
 form button {
   position: absolute;
