@@ -78,4 +78,9 @@ form .error-icon {
   top: 0.7rem;
 }
 
+.error-msg {
+  color: hsl(0, 93%, 68%);
+  padding: 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */
