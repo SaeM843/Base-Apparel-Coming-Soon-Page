@@ -81,6 +81,7 @@ form .error-icon {
 .error-msg {
   color: hsl(0, 93%, 68%);
   padding: 1rem;
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */
